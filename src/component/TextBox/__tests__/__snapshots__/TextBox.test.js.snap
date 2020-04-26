@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[RENDER] TextBox – Snapshot test Matches the snapshot 1`] = `
+<div
+  class="TextBox"
+  className="textbox"
+>
+  <label
+    className="inputLabel"
+  >
+    TextBox
+  </label>
+  <input
+    className="inputValue"
+    id="textbox"
+    onChange={[Function]}
+    type="text"
+    value="0"
+  />
+</div>
+`;

@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[RENDER] Transliteration – Snapshot test Matches the snapshot 1`] = `
+<div
+  className="Transliteration"
+>
+  <div
+    class="TextBox"
+    className="text"
+  >
+    <label
+      className="inputLabel"
+    >
+      Text: 
+    </label>
+    <input
+      className="inputValue"
+      id="text"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>
+  <div
+    class="ActionButton"
+    className="ActionButton"
+  >
+    <button
+      class="button"
+      onClick={[Function]}
+    >
+      Transliterate
+    </button>
+  </div>
+  <h1>
+    Transliteration: 
+    
+  </h1>
+</div>
+`;

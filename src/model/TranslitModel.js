@@ -57,7 +57,7 @@ const TranslitModel = (text) => {
             result = result + "a";
             break;
           case 'п':
-            result = result + "p";
+            result = result + "q";
             break;
           case 'р':
             result = result + "r";

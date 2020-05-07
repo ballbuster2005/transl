@@ -8,7 +8,7 @@ class Transliteration extends React.Component {
         super(props)
         this.state = {
             Value:     "",
-            result:    "",
+            result:    " ",
         }
         this.onPress = this.onPress.bind(this)
 

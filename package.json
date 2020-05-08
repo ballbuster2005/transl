@@ -15,6 +15,7 @@
     "react-scripts": "3.4.1",
     "react-test-renderer": "^16.13.1"
   },
+  "main": "server.js",
   "scripts": {
     "start": "node ./server.js",
     "test": "react-scripts test",

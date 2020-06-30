@@ -10,8 +10,6 @@ COPY ./ /app/
 
 RUN npm run build
 
-EXPOSE 8080
-
 FROM nginx:latest
 
 COPY --from=build-stage /app/dist/  /usr/share/nginx/html
